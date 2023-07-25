@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: post
 title: Poor Man's Escape Velocity
-permalink: /poor-man-escape-velocity/
+permalink: /poor-mans-escape-velocity/
+date: 2023-07-25 08:42:15 -7339
+categories: health meta
 ---
-
-### Poor Man's Escape Velocity
 
 Pretium nibh ipsum consequat nisl vel pretium. Cursus in hac habitasse platea dictumst quisque sagittis. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Lacinia quis vel eros donec ac odio tempor orci dapibus. Suspendisse faucibus interdum posuere lorem. Tempor orci dapibus ultrices in iaculis. Ullamcorper sit amet risus nullam. Viverra ipsum nunc aliquet bibendum enim facilisis. Fames ac turpis egestas maecenas pharetra convallis posuere morbi. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Egestas dui id ornare arcu odio.
 
